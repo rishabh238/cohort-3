@@ -1,0 +1,12 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html,css{
+    background-color: black;
+}
+h1{
+    background-color: wheat;
+    font-display: initial;
+}
